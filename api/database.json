@@ -1,12 +1,12 @@
 {
   "parks": [
     {
-      "id": 1,
       "name": "Jackson Hole",
       "state": "WY",
-      "latitude": 43.582767,
-      "longitude": -110.821999,
-      "visited": true
+      "latitude": "152.23358",
+      "longitude": "122.555752",
+      "visited": false,
+      "id": 1
     },
     {
       "id": 2,
@@ -25,12 +25,11 @@
       "visited": true
     },
     {
-      "id": 4,
       "name": "Yellowstone National Park",
       "state": "WY",
-      "latitude": 44.427895,
-      "longitude": -110.588379,
-      "visited": true
+      "latitude": null,
+      "longitude": null,
+      "id": 4
     },
     {
       "id": 5,
@@ -46,7 +45,7 @@
       "state": "TX",
       "latitude": 32.590797,
       "longitude": -95.273666,
-      "visited": false
+      "visited": true
     },
     {
       "id": 7,
